@@ -116,6 +116,7 @@ header{
   text-align: center;
   text-transform: uppercase;
   cursor: pointer;
+  color: black;
 }
 
 .btn {
